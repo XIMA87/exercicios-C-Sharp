@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\bin\Debug\net6.0\Exercicio Area Triangulos.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\bin\Debug\net6.0\Exercicio Area Triangulos.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\bin\Debug\net6.0\Exercicio Area Triangulos.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\bin\Debug\net6.0\Exercicio Area Triangulos.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\bin\Debug\net6.0\Exercicio Area Triangulos.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\refint\Exercicio Area Triangulos.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\Exercicio Area Triangulos.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\Exercicio Area Triangulos\obj\Debug\net6.0\ref\Exercicio Area Triangulos.dll
