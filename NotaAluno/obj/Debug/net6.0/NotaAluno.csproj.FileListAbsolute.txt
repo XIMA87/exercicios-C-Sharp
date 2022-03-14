@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\bin\Debug\net6.0\NotaAluno.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\bin\Debug\net6.0\NotaAluno.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\bin\Debug\net6.0\NotaAluno.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\bin\Debug\net6.0\NotaAluno.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\bin\Debug\net6.0\NotaAluno.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\refint\NotaAluno.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\NotaAluno.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\NotaAluno\obj\Debug\net6.0\ref\NotaAluno.dll
