@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\bin\Debug\net6.0\ExercicioSoma.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\bin\Debug\net6.0\ExercicioSoma.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\bin\Debug\net6.0\ExercicioSoma.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\bin\Debug\net6.0\ExercicioSoma.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\bin\Debug\net6.0\ExercicioSoma.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\refint\ExercicioSoma.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ExercicioSoma.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioSoma\obj\Debug\net6.0\ref\ExercicioSoma.dll

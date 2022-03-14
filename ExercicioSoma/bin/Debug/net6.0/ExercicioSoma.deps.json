@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioSoma/1.0.0": {
+        "runtime": {
+          "ExercicioSoma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioSoma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

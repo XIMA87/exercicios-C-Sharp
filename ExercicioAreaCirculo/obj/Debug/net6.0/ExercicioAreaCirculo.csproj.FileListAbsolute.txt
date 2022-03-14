@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\bin\Debug\net6.0\ExercicioAreaCirculo.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\bin\Debug\net6.0\ExercicioAreaCirculo.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\bin\Debug\net6.0\ExercicioAreaCirculo.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\bin\Debug\net6.0\ExercicioAreaCirculo.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\bin\Debug\net6.0\ExercicioAreaCirculo.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\refint\ExercicioAreaCirculo.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ExercicioAreaCirculo.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioAreaCirculo\obj\Debug\net6.0\ref\ExercicioAreaCirculo.dll
