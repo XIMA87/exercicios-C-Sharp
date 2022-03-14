@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\bin\Debug\net6.0\MedidasRetangulo.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\bin\Debug\net6.0\MedidasRetangulo.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\bin\Debug\net6.0\MedidasRetangulo.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\bin\Debug\net6.0\MedidasRetangulo.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\bin\Debug\net6.0\MedidasRetangulo.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\refint\MedidasRetangulo.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\MedidasRetangulo.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MedidasRetangulo\obj\Debug\net6.0\ref\MedidasRetangulo.dll

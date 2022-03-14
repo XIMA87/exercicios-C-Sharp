@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\bin\Debug\net6.0\IdadePessoa.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\bin\Debug\net6.0\IdadePessoa.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\bin\Debug\net6.0\IdadePessoa.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\bin\Debug\net6.0\IdadePessoa.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\bin\Debug\net6.0\IdadePessoa.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\refint\IdadePessoa.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\IdadePessoa.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\IdadePessoa\obj\Debug\net6.0\ref\IdadePessoa.dll
