@@ -1,5 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+/*
+O programa deve ler os valores de largura e altura de um retângulo.
+Em seguida deve mostrar na tela o valor de sua área, perímetro e diagonal.
+*/
+
 using System;
 using System.Globalization;
 using MedidasRetangulo;
