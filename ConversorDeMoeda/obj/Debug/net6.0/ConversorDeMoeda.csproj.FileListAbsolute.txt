@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\refint\ConversorDeMoeda.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
