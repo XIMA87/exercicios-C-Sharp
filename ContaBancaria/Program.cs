@@ -2,9 +2,9 @@
 
 /*
 O programa deve realizar um cadastro de conta (numero e titular) 
-e dar a opção para que seja feito ou não um deposito inicial.
+e dar a opção para que seja feito ou não um depósito inicial.
 Em seguida deve realizar um depósito e um saque, sempre mostrando 
-os dados aualizados após cada operação. As operações de saque devem 
+os dados atualizados após cada operação. As operações de saque devem 
 contemplar uma taxa de $ 5.00.
 */
 
