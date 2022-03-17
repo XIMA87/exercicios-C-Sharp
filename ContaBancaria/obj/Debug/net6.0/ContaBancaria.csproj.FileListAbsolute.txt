@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\bin\Debug\net6.0\ContaBancaria.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\bin\Debug\net6.0\ContaBancaria.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\bin\Debug\net6.0\ContaBancaria.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\bin\Debug\net6.0\ContaBancaria.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\bin\Debug\net6.0\ContaBancaria.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\refint\ContaBancaria.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ContaBancaria.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ContaBancaria\obj\Debug\net6.0\ref\ContaBancaria.dll
