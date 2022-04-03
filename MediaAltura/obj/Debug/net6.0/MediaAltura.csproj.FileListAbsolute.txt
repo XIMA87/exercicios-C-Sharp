@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\bin\Debug\net6.0\MediaAltura.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\bin\Debug\net6.0\MediaAltura.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\bin\Debug\net6.0\MediaAltura.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\bin\Debug\net6.0\MediaAltura.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\bin\Debug\net6.0\MediaAltura.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\refint\MediaAltura.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\MediaAltura.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\MediaAltura\obj\Debug\net6.0\ref\MediaAltura.dll

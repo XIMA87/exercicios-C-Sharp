@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\refint\ExercicioMatrizes.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioMatrizes\obj\Debug\net6.0\ref\ExercicioMatrizes.dll
