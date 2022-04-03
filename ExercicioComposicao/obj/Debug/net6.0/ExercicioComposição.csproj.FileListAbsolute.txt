@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\bin\Debug\net6.0\ExercicioComposição.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\bin\Debug\net6.0\ExercicioComposição.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\bin\Debug\net6.0\ExercicioComposição.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\bin\Debug\net6.0\ExercicioComposição.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\bin\Debug\net6.0\ExercicioComposição.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\refint\ExercicioComposição.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ExercicioComposição.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioComposição\obj\Debug\net6.0\ref\ExercicioComposição.dll
