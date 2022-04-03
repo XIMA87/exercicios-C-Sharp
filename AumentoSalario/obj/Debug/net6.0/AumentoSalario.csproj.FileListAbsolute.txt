@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\bin\Debug\net6.0\AumentoSalario.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\bin\Debug\net6.0\AumentoSalario.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\bin\Debug\net6.0\AumentoSalario.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\bin\Debug\net6.0\AumentoSalario.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\bin\Debug\net6.0\AumentoSalario.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\refint\AumentoSalario.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\AumentoSalario.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AumentoSalario\obj\Debug\net6.0\ref\AumentoSalario.dll

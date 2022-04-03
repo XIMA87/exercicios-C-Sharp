@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\bin\Debug\net6.0\CalculaSimples.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\bin\Debug\net6.0\CalculaSimples.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\bin\Debug\net6.0\CalculaSimples.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\bin\Debug\net6.0\CalculaSimples.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\bin\Debug\net6.0\CalculaSimples.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\refint\CalculaSimples.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\CalculaSimples.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\CalculaSimples\obj\Debug\net6.0\ref\CalculaSimples.dll

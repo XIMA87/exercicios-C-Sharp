@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\bin\Debug\net6.0\AluguelQuartos.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\bin\Debug\net6.0\AluguelQuartos.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\bin\Debug\net6.0\AluguelQuartos.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\bin\Debug\net6.0\AluguelQuartos.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\bin\Debug\net6.0\AluguelQuartos.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\refint\AluguelQuartos.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\AluguelQuartos.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\AluguelQuartos\obj\Debug\net6.0\ref\AluguelQuartos.dll
