@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\bin\Debug\net6.0\ExercicioHeranca.exe
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\bin\Debug\net6.0\ExercicioHeranca.deps.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\bin\Debug\net6.0\ExercicioHeranca.runtimeconfig.json
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\bin\Debug\net6.0\ExercicioHeranca.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\bin\Debug\net6.0\ExercicioHeranca.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.AssemblyInfo.cs
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\refint\ExercicioHeranca.dll
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.pdb
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ExercicioHeranca.genruntimeconfig.cache
+C:\Workspace\Udemy\C# Udemy\Aulas\ExercicioHeranca\obj\Debug\net6.0\ref\ExercicioHeranca.dll
